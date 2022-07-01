@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **pedroleni/pedroleni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hi>👋</hi>
+<h1> Hi there👋</h1>
 
-<h2> ------- </h2>
+<h2>Welcome to my page! </br> I'm Pedro, Fullstack Developer 💻 Jurist ⚖️ and lover of new technologies 🌐
+  </h2> 
