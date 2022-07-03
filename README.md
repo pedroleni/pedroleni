@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1> Hi there👋</h1>
-<img alt="saludo ichigo" src="https://aminoapps.com/c/anime-es/page/blog/final-de-bleach/1Jdc_6u0eEL47xxzoQgrGwjK4EWLrRB"/>
+<img alt="saludo ichigo" src="https://c.tenor.com/mCiM7CmGGI4AAAAC/naruto.gif"/>
 
 <h2>Welcome to my page! </br> I'm Pedro, Fullstack Developer 💻 Jurist ⚖️ and lover of new technologies 🌐
   </h2> 
@@ -24,7 +24,11 @@ Here are some ideas to get you started:
   <h3>Things I code with</h3>
 
 <p>
+
+
+  
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="html5" src="" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
