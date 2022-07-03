@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1> Hi there👋</h1>
+<h1 align="center"> Hi there👋</h1>
 <p align="center" ><img  alt="saludo ichigo" src="https://c.tenor.com/mCiM7CmGGI4AAAAC/naruto.gif"/>
 </p>
 
