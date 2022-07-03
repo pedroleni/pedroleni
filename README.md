@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <h1> Hi there👋</h1>
-<img align="center" alt="saludo ichigo" src="https://c.tenor.com/mCiM7CmGGI4AAAAC/naruto.gif"/>
+<p align="center" ><img  alt="saludo ichigo" src="https://c.tenor.com/mCiM7CmGGI4AAAAC/naruto.gif"/> align="middle">
+</p>
 
 <h2>Welcome to my page! </br> I'm Pedro, Fullstack Developer 💻 Jurist ⚖️ and lover of new technologies 🌐
   </h2> 
