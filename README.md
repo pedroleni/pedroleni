@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 <h2>Welcome to my page! </br> I'm Pedro, Fullstack Developer 💻 Jurist ⚖️ and lover of new technologies 🌐
   </h2> 
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroleni&show_icons=true&locale=es&layout=compact&langs_count=9&theme=nord&custom_title=Stack+según+GitHub" alt="pedroleni" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroleni" alt="pedroleni" /> 
 
   <h3>Things I code with</h3>
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
