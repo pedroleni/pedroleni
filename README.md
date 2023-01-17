@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h2>Welcome to my page! </br> I'm Pedro, Fullstack Developer 💻 Jurist ⚖️ and lover of new technologies 🌐
   </h2> 
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroleni" alt="pedroleni" /> 
+
 
 <h3>Things I code with</h3>
 <p>
